@@ -1,7 +1,7 @@
 {
   "name": "lotide",
   "version": "1.0.0",
-  "description": "test codes by Mocha and Chai",
+  "description": "lotide code with tests by Mocha and Chai",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/HaopengSun/lotide.git"
   },
-  "author": "",
+  "author": "haopengsun",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/HaopengSun/lotide/issues"
