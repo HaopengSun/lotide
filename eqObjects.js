@@ -79,3 +79,5 @@ const cd2 = { c: "1", d: ["2", 3, 4] };
 assertEqual(eqObjects(cd, cd2), false);
 // => false
 // Array checks using simple === will always return false.
+
+module.exports = eqObjects;
