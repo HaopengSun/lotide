@@ -1,6 +1,7 @@
 // const assertArraysEqual = require('../assertArraysEqual');
 const eqArrays = require('../eqArrays');
 const middle = require('../middle');
+// const { assert } = require('chai') 
 const assert = require('chai').assert;
 
 // assertArraysEqual(eqArrays(middle([1]), []), true);
